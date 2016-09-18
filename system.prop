@@ -42,6 +42,14 @@ vidc.enc.narrow.searchrange=1
 # Factory reset protection
 ro.frp.pst=/dev/block/bootdevice/by-name/config
 
+# Hardware Info
+ro.device.chipset=Qualcomm MSM8939v2 Snapdragon 616
+ro.device.cpu=Quad-core 1.5 GHz Cortex-A53 & quad-core 1.2 GHz Cortex-A53
+ro.device.gpu=Qualcomm Adreno 405
+ro.device.rear_cam=13 MP
+ro.device.front_cam=5 MP
+ro.device.screen_res=720x1280 pixels, 5.0" IPS
+
 # Media
 media.msm8939hw=1
 mm.enable.smoothstreaming=true
